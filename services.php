@@ -40,7 +40,7 @@ We are an environment where great music, great minds, and great energy meet. Be 
                             <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">What We Do</h3>
                             <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Brand partnership & activation</p>
                             <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Music sync & licensing</p>
-                            <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Performance & APPEARANCES</p>
+                            <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Performance & appearances</p>
                             <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Content production</p>
                         </div>
                         <div class="video_watch d-flex align-items-center">
@@ -55,7 +55,7 @@ We are an environment where great music, great minds, and great energy meet. Be 
         </div>
     </div>
 
-    <div class="get_in_tauch_area">
+    <div data-scroll-index="0" class="get_in_tauch_area">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">

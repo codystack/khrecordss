@@ -45,7 +45,7 @@
                                     <ul id="navigation">
                                         <!--<li><a class="active" href="\">Home</a></li>-->
                                         <li><a href="about">About us</a></li>
-                                        <li><a href="about">Talents</a></li>
+                                        <li><a href="#">Talents</a></li>
                                         <li><a href="services">Services</a></li>
                                         <li><a href="#">News</a></li>
                                         <li><a href="contact">Contact us</a></li>

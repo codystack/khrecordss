@@ -96,7 +96,7 @@
           <div class="media contact-info">
             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
             <div class="media-body">
-              <h3>+234(0)906 161 4615</h3>
+              <h3>+234 802 391 1599</h3>
               <p>Mon-Sat</p>
             </div>
           </div>

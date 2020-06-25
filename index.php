@@ -8,10 +8,9 @@
                     <div class="col-lg-10 col-md-10">
                         <div class="slider_text">
                             <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
-                                Startup you can build a
-                                Bootstrap builder.
+                            We are dedicated to creativity and innovations.
                             </h3>
-                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="portfolio.html">Visit Our Works</a>
+                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="services">See Our Services</a>
                         </div>
                     </div>
                 </div>
@@ -24,41 +23,10 @@
     <div class="service_area">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-6">
+                <div class="col-lg-10">
                     <div class="section_title text-center mb-70">
-                        <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s" >Services</span>
-                        <h3 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">With more than 20 years of 
-                            experience we can deliver the 
-                            best product design.</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-4 col-md-4">
-                    <div class="single_service text-center wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".4s">
-                        <div class="icon">
-                            <img src="img/svg_icon/1.svg" alt="">
-                        </div>
-                        <h3>Graphic design</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-4">
-                    <div class="single_service text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                        <div class="icon">
-                            <img src="img/svg_icon/2.svg" alt="">
-                        </div>
-                        <h3>Web design</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-4">
-                    <div class="single_service text-center wow fadeInRight" data-wow-duration="1.2s" data-wow-delay=".4s">
-                        <div class="icon">
-                            <img src="img/svg_icon/3.svg" alt="">
-                        </div>
-                        <h3>Mobile app</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
+                        <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s" >Whe wer are.</span>
+                        <h3 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">We take pride in being the main source of management, booking and production of hip-hop, afro-pop, afro-soul, r&b, highlife music. We are an environment where great music, great minds, and great energy meet. Be one with us and come join the International House Movement!!!</h3>
                     </div>
                 </div>
             </div>
@@ -72,11 +40,10 @@
                 <div class="col-lg-5 offset-lg-1">
                     <div class="about_info">
                         <div class="section_title white_text">
-                            <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">About Us</span>
-                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Empowering individuals </h3>
-                            <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Efficiently unleash cross-media tour function information without cross action media value. Quickly maximize timely deliverables for real-time schemas.</p>
-                            <p class="last_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">“Function information without cross action media value.</p>
-                            <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">About Us</a>
+                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Empowering creativity </h3>
+                            <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Kh-records is a record label that focuses on what is important; investing in the music and talented artists that create it. We believe in creating a collaborative and innovative environment where our artist can thrive and reach their maximum potential in a stress free atmosphere.</p>
+                            <p class="last_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">We are dedicated to creativity, innovation and breaking new frontiers.</p>
+                            <a href="contact" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">Talk to us</a>
                         </div>
                     </div>
                 </div>
@@ -84,53 +51,7 @@
         </div>
     </div>
 
-    <div data-scroll-index="0" class="get_in_tauch_area">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section_title text-center mb-90">
-                        <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Get in Touch</h3>
-                        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Tour function information without cross action media value quickly maximize timely deliverables.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="touch_form">
-                        <form action="#">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                                        <input type="text" placeholder="Your Name" >
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                                        <input type="email" placeholder="Email" >
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                                        <input type="email" placeholder="Subject" >
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                                       <textarea name="" id="" cols="30" placeholder="Message" rows="10"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="submit_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
-                                        <button class="boxed-btn3" type="submit">Send Message</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<?php include('./components/say-hello.php');?>
 
 
 <?php include('./components/footer.php');?>

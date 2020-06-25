@@ -10,7 +10,7 @@
                             <small><h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
                                 We are dedicated to creativity and innovations.
                             </h3></small>
-                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="services">See Our servicess</a>
+                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="services">See Our services</a>
                         </div>
                     </div>
                 </div>

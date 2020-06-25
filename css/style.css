@@ -629,6 +629,9 @@ h3 {
   color: #009DFF;
 }
 
+img.svg04 {
+  margin-bottom: 40px;
+}
 /* line 190, ../../Arafath/CL/December/233. Startup/HTML/scss/_btn.scss */
 .line-button:hover::before {
   background: #009DFF;

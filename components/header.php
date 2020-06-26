@@ -7,6 +7,9 @@
     <title>KH Records&trade; :: Official Website</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Kh-records is a record label that focuses on what is important; investing in the music and talented artists that create it. We believe in creating a collaborative and innovative environment where our artist can thrive and reach their maximum potential in a stress free atmosphere.">
+    <meta name="keywords" content="Kh-records, Kh records, rcord label, lagos, Nigeria, record label in nigeria, lekki, good music, kaydex, Kayode Michael Fayehun">
+    <meta name="author" content="WebifyNG">
     <link rel="shortcut icon" type="image/x-icon" href="https://i.imgur.com/vydVUbI.png">
 
     <!-- CSS here -->
@@ -45,7 +48,7 @@
                                     <ul id="navigation">
                                         <!--<li><a class="active" href="\">Home</a></li>-->
                                         <li><a href="about">About us</a></li>
-                                        <li><a href="#">Talents</a></li>
+                                        <li><a href="talents">Talents</a></li>
                                         <li><a href="services">Services</a></li>
                                         <li><a href="#">News</a></li>
                                         <li><a href="contact">Contact us</a></li>

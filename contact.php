@@ -103,7 +103,7 @@
           <div class="media contact-info">
             <span class="contact-info__icon"><i class="ti-email"></i></span>
             <div class="media-body">
-              <h3>khrecords101@gmail.com</h3>
+              <h3>info@khrecs.com</h3>
             </div>
           </div>
         </div>

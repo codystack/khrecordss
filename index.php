@@ -5,9 +5,16 @@
         <div class="single_slider  d-flex align-items-center slider_bg_1 overlay">
             <div class="container">
                 <div class="row align-items-center justify-content-start">
-                    <div class="col-lg-10 col-md-10">
+                <div class="col-lg-6 col-md-10 mt-50">
+                        <div class="float-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
+                            <a href="" target="_blank">
+                            <img src="./img/kaydex1.jpg" width="350px"></div>
+                            </a>
+                    </div>
+
+                    <div class="col-lg-6 col-md-10 mt-50">
                         <div class="slider_text">
-                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
+                            <h3 class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".1s">
                             We are dedicated to creativity and innovations.
                             </h3>
                             <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="services">See Our Services</a>

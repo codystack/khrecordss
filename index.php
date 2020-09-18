@@ -7,7 +7,7 @@
                 <div class="row align-items-center justify-content-start">
                 <div class="col-lg-6 col-md-10 mt-50">
                         <div class="float-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
-                            <a href="" target="_blank">
+                            <a href="https://fanlink.to/kaydextrusttheprocess" target="_blank">
                             <img src="./img/kaydex1.jpg" width="350px"></div>
                             </a>
                     </div>

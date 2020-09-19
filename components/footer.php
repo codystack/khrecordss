@@ -40,7 +40,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <p class="copy_right text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.3s">
-&copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved | Built by <a href="https://thankgodokoro.codes/" target="_blank">ThankGod Okoro&trade;</a>
+&copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved | Built by <a href="https://thankgodokoro.codes/" target="_blank">TeeGee&trade;</a>
                         </p>
                     </div>
                 </div>
